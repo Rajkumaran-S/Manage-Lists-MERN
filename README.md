@@ -1,6 +1,6 @@
 # Manage List MERN
 
-![my picture](https://doananhtingithub40102.github.io/MyData/mern/mypicture.png)
+![list](https://github.com/user-attachments/assets/d7128b6b-904c-479a-bf2d-fd465e18d5d9)
 
 A full-stack [MERN](https://www.mongodb.com/mern-stack) application for managing information of employees.
 
